@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../예은/tool/jdk-11.0.21_windows-x64_bin/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.7.11/fcf32e175b048ec937da6491c1896a2d06675637/spring-boot-configuration-processor-2.7.11.jar" />
+          <entry name="$PROJECT_DIR$/../../예은/tool/jdk-11.0.21_windows-x64_bin/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="spring_board_0331.spring_board_0331.main~1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_board_0331.spring_board_0331.main" target="10" />
+      <module name="spring_board_0331.spring_board_0331.test" target="10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
